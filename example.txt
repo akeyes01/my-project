@@ -1,2 +1,3 @@
-Hello from my EC2 instance
-Hello from my EC2 instance
+Hello from my EC2 instance 1
+Hello from my EC2 instance 2
+Hello from my EC2 instance 3
